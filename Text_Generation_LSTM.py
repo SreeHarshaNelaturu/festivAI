@@ -4,6 +4,7 @@ from keras.layers import LSTM
 from keras.layers import Dropout
 from keras.optimizers import RMSprop
 #from keras.utils.data_utils import get_file
+import tensorflow as tf
 import numpy as np
 import random
 import sys
